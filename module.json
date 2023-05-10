@@ -22,8 +22,8 @@
         },
         {
             "name": "module-items",
-            "label": "Module Items",
-            "path": "./packs/items.db",
+            "label": "음유시인",
+            "path": "./packs/Item-D3mNgoivFpW4udCa.db",
             "entity": "Item",
             "type": "Item"
         },
